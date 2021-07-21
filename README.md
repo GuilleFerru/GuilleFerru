@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guillermo Ferrucci</h1>
+<h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">A student of FullStack</h3>
 
 <h3 align="left">Connect with me:</h3>
