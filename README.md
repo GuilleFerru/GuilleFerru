@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
-<h3 align="center">A FullStack student</h3>
+<h3 align="center">A in progress FullStack Developer</h3>
 
 - 🔭 I’m currently working on a daily management software for my company using MERN stack
 
