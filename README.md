@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">A FullStack student</h3>
 
-- 🔭 I’m currently working on [a Node js Project of an Ecommerce] (https://github.com/GuilleFerru/backend_Coder)
+- 🔭 I’m currently working on a daily management software for my company using MERN stack
 
 - 🌱 I’m currently learning **MERN**
 
