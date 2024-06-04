@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">A in progress FullStack Developer</h3>
 
-- 🔭 I’m currently working on a daily management software for my company using MERN stack
+- 🔭 I’m currently reading Head First Design Patterns
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
