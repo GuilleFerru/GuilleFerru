@@ -29,6 +29,6 @@
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.eclemma.org/jacoco/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jacoco/jacoco-icon.svg" alt="jacoco" width="40" height="40"/> </a> 
-<a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/> </a> 
+<a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube.svg" alt="sonarqube" width="40" height="40"/> </a> 
 <a href="https://jfrog.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="jfrog" width="40" height="40"/> </a>
 </p>
