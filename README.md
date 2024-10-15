@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
-<h3 align="center">A technology enthusiast</h3>
+<h3 align="center">A DevOps explorer and coding enthusiast</h3>
 
 - 🔭 I’m currently working with **Node**, **Express**, **Typescript**
 
